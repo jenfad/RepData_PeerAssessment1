@@ -1,0 +1,7 @@
+#Peer Assessment 1
+==================
+
+First, I will read in the file that I've downloaded into my working directory:
+
+```{r}
+Activity <-read.csv("activity.csv")
